@@ -1,0 +1,8 @@
+spring:
+  application.name: study-telegram-techbot
+  profiles.active: dev
+  data:
+    mongodb:
+      database: mydb
+
+server.port: 8080
